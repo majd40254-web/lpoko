@@ -1,0 +1,25 @@
+{
+  "name": "modern-tech-center",
+  "version": "1.0.0",
+  "description": "مركز التكنولوجيا الحديثة - موقع احترافي مع مساعد ذكي",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "technology",
+    "security",
+    "cctv",
+    "networks",
+    "ai-chat",
+    "openai",
+    "chatgpt"
+  ],
+  "author": "SuperThrowFuture",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
